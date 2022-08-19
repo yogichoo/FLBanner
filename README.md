@@ -9,3 +9,4 @@ FLBanner *banner = [[FLBanner alloc] initWithFrame:CGRectMake(0, 0, self.view.fr
 [self.view addSubview:banner];
 ```
 
+<img width="340" alt="image" src="https://user-images.githubusercontent.com/16301241/185619997-aee956d1-0ece-4b2b-adcc-b7ec751e1c5c.png">
